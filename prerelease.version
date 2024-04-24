@@ -1,6 +1,8 @@
+#updated after building 0.4
+#Wed, 24 Apr 2024 17:06:52 -0400
 #updated after building 0.3
 #Wed, 24 Apr 2024 17:02:03 -0400
 #updated after building 0.2
 #Wed, 24 Apr 2024 16:18:45 -0400
 #prerelease version number
-prerelease.number=4
+prerelease.number=5
