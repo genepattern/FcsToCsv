@@ -9,7 +9,7 @@
         <fileset dir="." includes="manifest, Dockerfile, LICENSE"/>
         <!-- if you are iterating in the module integrator you will need to include the source files in the module zip -->
         <!-- zipfileset dir="src" includes="*.py"/-->
-	<dir = "src" includes = "*">
+	<dir = "src" includes = "*"/>
     </zip>
     <antcall target="postzip"/>
 </target>
