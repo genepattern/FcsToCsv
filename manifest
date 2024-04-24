@@ -1,10 +1,11 @@
 #FcsToCsv
-#Wed Apr 24 20:03:45 UTC 2024
+#Wed Apr 24 20:57:31 UTC 2024
 JVMLevel=1.5
 LSID=urn\:lsid\:broad.mit.edu\:cancer.software.genepattern.module.analysis\:00175\:3
 author=Josef Spidlen, BC Cancer Agency
 commandLine=<java> <java_flags> -jar <libdir>fcs2csv.jar <Input.FCS.data.file> <Output.CSV.file.name> <Use.full.names> <Output.keywords.file.name> <Output.keywords.mode> <Channel.to.scale.conversion> <Precision>
 cpuType=any
+categories=Data Format Conversion; Flow Cytometry
 description=Converts a Flow Cytometry Standard (FCS) file to a Comma Separated Values (CSV) file.
 fileFormat=csv;keywords.csv;keywords.txt
 language=Java
